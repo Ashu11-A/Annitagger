@@ -1,0 +1,7 @@
+
+*.xz
+/filename_ner_model
+/node_modules
+/.early.coverage
+/output
+/train/__pycache__
